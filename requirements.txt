@@ -1,0 +1,5 @@
+alpha_vantage
+pymongo
+schedule
+asyncio
+dotenv
